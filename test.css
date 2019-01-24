@@ -167,23 +167,23 @@ nav .info span {
   margin: 30px auto;
 }
 #pay #payover #ret {
-  background-color: #1890ff;
   padding: 8px;
   text-decoration: none;
   font-size: 12px;
   border-radius: 8px;
   border: none;
+  background-color: #1890ff;
 }
 #pay #payover #sui {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 12px;
+  border-radius: 8px;
+  border: none;
   color: #5a5a5a;
   margin-left: 50px;
   background-color: white;
   border: 1px solid #b3b3b3;
-  padding: 8px;
-  text-decoration: none;
-  font-size: 12px;
-  border-radius: 8px;
-  border: none;
 }
 /* 底部 */
 footer {
